@@ -76,7 +76,7 @@ fine-tuning a transformer model.
 Kata  : bagus
 Makna : sangat baik dan memuaskan
 Hasil : POSITIVE (confidence ~0.9)
+```
 Author
-
 Muhammad Auffa Hakim Aditya
 Computer Science Student – UPN "Veteran" Jawa Timur
